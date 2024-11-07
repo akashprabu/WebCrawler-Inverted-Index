@@ -1,0 +1,49 @@
+Name: Akashprabu Athikombai Chandrasekaran
+USC ID: 4599992209
+News site crawled: NY Times 
+Number of threads: 16
+
+Fetch Statistics
+================
+fetches attempted: 19659
+fetches succeeded: 15563
+fetches failed or aborted: 4096
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2991186
+# unique URLs extracted: 235118
+# unique URLs within News Site: 160744
+# unique URLs outside News Site: 74374
+
+Status Codes:
+=============
+200 OK: 15563
+400 Bad Request: 1
+403 Forbidden: 3400
+404 Not Found: 119
+405 Method Not Allowed: 5
+410 Gone: 4
+423 Locked: 1
+429 Too Many Requests: 126
+500 Internal Server Error: 434
+503 Service Unavailable: 6
+
+File Sizes:
+===========
+< 1KB: 407
+1KB ~ <10KB: 37
+10KB ~ <100KB: 976
+100KB ~ <1MB: 5263
+>= 1MB: 5598
+
+Content Types:
+==============
+text/html: 215
+text/html; Charset=UTF-8: 1
+text/html; charset=ISO-8859-1: 2
+text/html; charset=UTF-8: 260
+text/html; charset=utf-8: 11030
+text/html;charset=UTF-8: 669
+text/html;charset=ascii: 1
+text/html;charset=utf-8: 103
